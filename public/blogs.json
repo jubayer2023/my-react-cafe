@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "Adventure in the Wilderness",
+    "title": "Mastering the Art of Code Refactoring: Tips and Best Practices",
     "cover": "https://i.ibb.co/b5Tkt7t/cover-1.jpg",
     "author": "Alexandra Davis",
     "author_img": "https://i.ibb.co/cFQLpyp/author-1.jpg",
@@ -12,7 +12,7 @@
   },
   {
     "id": "2",
-    "title": "Galactic Odyssey",
+    "title": "Demystifying Data Structures: A Comprehensive Guide for Programmers",
     "cover": "https://i.ibb.co/4FxRbtg/cover-2.jpg",
     "author": "Benjamin Walker",
     "author_img": "https://i.ibb.co/343Sgbv/author-2.jpg",
@@ -23,7 +23,7 @@
   },
   {
     "id": "3",
-    "title": "Realm of Magic",
+    "title": "Debugging Like a Pro: Strategies for Effective Code Troubleshooting",
     "cover": "https://i.ibb.co/KKwfKxJ/cover-3.jpg",
     "author": "Catherine Mitchell",
     "author_img": "https://i.ibb.co/7V1M2FY/author-3.jpg",
@@ -34,7 +34,7 @@
   },
   {
     "id": "4",
-    "title": "Secrets of the Renaissance",
+    "title": "The Rise of DevOps: Streamlining Development and Operations for Success",
     "cover": "https://i.ibb.co/5F30wBp/cover-4.jpg",
     "author": "Daniel White",
     "author_img": "https://i.ibb.co/343Sgbv/author-2.jpg",
@@ -45,7 +45,7 @@
   },
   {
     "id": "5",
-    "title": "Love in Paris",
+    "title": "From Novice to Ninja: A Step-by-Step Path to Becoming a Full-Stack Developer",
     "cover": "https://i.ibb.co/hChLbQY/cover-5.png",
     "author": "Eleanor Adams",
     "author_img": "https://i.ibb.co/cFQLpyp/author-1.jpg",
