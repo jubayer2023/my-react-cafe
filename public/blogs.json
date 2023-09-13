@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/b5Tkt7t/cover-1.jpg",
+      "author": "Alexandra Davis",
+      "author_img": "https://i.ibb.co/cFQLpyp/author-1.jpg",
+      "author_title": "Adventure Enthusiast",
+      "posted_date": "2023-09-15",
+      "reading_time": 6,
+      "hashtag": "#Adventure #Exploration #Survival"
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/4FxRbtg/cover-2.jpg",
+      "author": "Benjamin Walker",
+      "author_img": "https://i.ibb.co/343Sgbv/author-2.jpg",
+      "author_title": "Science Fiction Mastermind",
+      "posted_date": "2023-09-14",
+      "reading_time": 4,
+      "hashtag": "#SciFi #SpaceAdventure #Aliens"
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/KKwfKxJ/cover-3.jpg",
+      "author": "Catherine Mitchell",
+      "author_img": "https://i.ibb.co/7V1M2FY/author-3.jpg",
+      "author_title": "Fantasy Wizard",
+      "posted_date": "2023-09-13",
+      "reading_time": 2,
+      "hashtag": "#Fantasy #Magic #Quest"
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/5F30wBp/cover-4.jpg",
+      "author": "Daniel White",
+      "author_img": "https://i.ibb.co/343Sgbv/author-2.jpg",
+      "author_title": "Historical Fiction Buff",
+      "posted_date": "2023-09-12",
+      "reading_time": 8,
+      "hashtag": "#HistoricalFiction #Renaissance #Mystery"
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/ZTnCs6w/cover-5.png",
+      "author": "Eleanor Adams",
+      "author_img": "https://i.ibb.co/cFQLpyp/author-1.jpg",
+      "author_title": "Romantic Dreamer",
+      "posted_date": "2023-09-11",
+      "reading_time": 15,
+      "hashtag": "#Romance #Paris #LoveStory"
+    }
+  ]
+  

@@ -1,13 +1,17 @@
-
-import './App.css'
-
+import "./App.css";
+import Header from "./components/Header/Header";
+import Blogs from "./components/Blogs/Blogs";
+import Bookmarks from "./components/Bookmarks/Bookmarks";
 function App() {
-
   return (
     <>
-      <h1 className='text-4xl text-center text-black font-bold mt-5'>My-Ract-cafe</h1>
+      <Header></Header>
+      <div className="md:flex gap-4">
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
